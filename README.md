@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/a36e2871-a2b4-4dca-b39b-236930606557" />
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/afcc15e0-a377-4eb0-9d90-77689dbd11e1" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/cda40c74-b849-435d-bcc3-8d9dab227cf8" />
+
+
 # Product Inventory Management System
 
 This is a simple full-stack CRUD project for managing products.  
